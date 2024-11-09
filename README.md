@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS
 - 📫 How to reach me @kramerdisclaimer on ig
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a multidisciplinary designer as well
+
 
 <!---
 crizpycorn/crizpycorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
