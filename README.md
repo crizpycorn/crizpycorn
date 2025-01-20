@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crizpycorn
 - 👀 I’m interested in Interface development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning CSS, json and html
 - 📫 How to reach me @kramerdisclaimer on ig
 - 😄 Pronouns: she/her
 
